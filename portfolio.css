@@ -153,7 +153,12 @@
 .read-more-button {
     color: yellow;
     font-weight: bold;
-    font-size: 17px;
+    font-size: 13px;
+    width: 80px;
+    height: 30px;
+    background-color: black;
+    border-radius: 20px;
+    border-style: solid;
 }
 
 .servicesection {
